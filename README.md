@@ -2,6 +2,9 @@
 
 The project is a 2D game built using the Kaboom.js library, featuring interactive exploration and dialogue mechanics.
 
+<img width="757" alt="image" src="https://github.com/ndangi168/Nikhil-Dangi-2D-Game-Portfolio/assets/76063046/cb2093e6-d1f1-4f67-9744-724ad369d70d">
+
+
 ## Table of Contents
 
 1. [Description](#description)
