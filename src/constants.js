@@ -13,7 +13,7 @@ export const dialogueData = {
   tv: `This is my TV. Checkout my <a href="https://public.tableau.com/app/profile/nikhil.dangi/vizzes" target="_blank">Tableau</a>, 
   <a href="https://www.behance.net/nikhildangi1" target="_blank">Behance</a>, and <a href="https://github.com/ndangi168" target="_blank">Github</a> profile`,
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/11ukUCcTT86T7hPmS3hpTH8N5YW2xCQtW/view?usp=sharing" target="_blank">Check it out?</a>
+  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/drive/folders/1drWZZB1t3N5oFmAKMVGBPXt4uPy2jdxi?usp=sharing" target="_blank">Check it out?</a>
   Contact me at <a href= "mailto: nikhildangi168@gmail.com"> nikhildangi168@gmail.com </a> if you have any interesting job opportunities!`,
   projects: `Info about this 2D game portfolio : Simple game portfolio made using Javascript library "Kaboom.js" which is used to make games. Kaboom.js is no longer maintained.`,
   library: `That's My Skillshelf which contains<br> 
